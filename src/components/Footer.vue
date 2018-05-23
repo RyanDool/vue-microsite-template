@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<footer>
-			<p class="copyright">&copy; {{ date }}.</p>
+			<p class="copyright">&copy; {{ date }}</p>
 		</footer>
 	</div>
 </template>
